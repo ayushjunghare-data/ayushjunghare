@@ -20,7 +20,7 @@
 ### 🔹 Power BI Sales & Customer Analytics Dashboard
 End-to-end BI dashboard using Star Schema modeling and advanced DAX.
 
-👉 https://github.com/YOURUSERNAME/powerbi-sales-analytics-dashboard
+👉 (https://github.com/ayushjunghare-data/powerbi-sales-analytics-dashboard/blob/main/Sales_Analytics_Dashboard.pbix.pbix)
 
 
 ---
