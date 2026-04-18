@@ -1,1 +1,34 @@
-# ayushjunghare
+# 👋 Hi, I'm Ayush Junghare
+
+🚀 Aspiring Data Analyst passionate about transforming data into actionable business insights.
+
+---
+
+## 🧠 Skills
+- Power BI
+- SQL
+- Excel
+- Data Modeling
+- DAX
+- Data Visualization
+- Business Analytics
+
+---
+
+## 📊 Projects
+
+### 🔹 Power BI Sales & Customer Analytics Dashboard
+End-to-end BI dashboard using Star Schema modeling and advanced DAX.
+
+👉 https://github.com/YOURUSERNAME/powerbi-sales-analytics-dashboard
+
+
+---
+
+## 🎯 Career Objective
+Currently transitioning from BPS Associate to Data Analyst role by building real-world analytics projects and strengthening business analytics skills.
+
+---
+
+## 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/ayush-junghare-52458527a
