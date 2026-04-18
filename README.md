@@ -31,4 +31,5 @@ Currently transitioning from BPS Associate to Data Analyst role by building real
 ---
 
 ## 📫 Connect With Me
+GMAIL:ayushjunghareaj@gmail.com<br>
 LinkedIn: www.linkedin.com/in/ayush-junghare-52458527a
