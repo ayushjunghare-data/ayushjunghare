@@ -1,5 +1,5 @@
 <h1 align="center"># 👋 Hi, I'm Ayush Junghare </h1>
-
+<h2 align="center"># :) Welcome to my Data Analytics Portfolio. </h2>
 🚀 Aspiring Data Analyst passionate about transforming data into actionable business insights.
 
 ---
