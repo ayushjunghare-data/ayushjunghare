@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayush Junghare
+<h1 align="center"># 👋 Hi, I'm Ayush Junghare
 
 🚀 Aspiring Data Analyst passionate about transforming data into actionable business insights.
 
