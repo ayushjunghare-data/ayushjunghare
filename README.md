@@ -24,6 +24,11 @@ End-to-end BI dashboard using Star Schema modeling and advanced DAX.
 👉 (https://github.com/ayushjunghare-data/powerbi-sales-analytics-dashboard/blob/main/Sales_Analytics_Dashboard.pbix.pbix)
 
 
+📊 **Power BI End-to-End Insurance Analytics Dashboard**
+
+👉(https://github.com/ayushjunghare-data/Insurance-powerbi-dashboard/blob/main/PBIX%20File/Insurance_Analytics_Dashboard.pbix)
+
+
 ---
 
 ## 🎯 Career Objective
